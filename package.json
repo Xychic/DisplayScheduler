@@ -1,0 +1,25 @@
+{
+    "name": "MMM-DisplayScheduler",
+    "version": "1.4.0",
+    "description": "A MagicMirror helper module to turn on a monitor between certain times to save power.",
+    "main": "MMM-DisplayScheduler.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xychic/MMM-DisplayScheduler.git"
+    },
+    "keywords": [
+        "MagicMirror",
+        "Module",
+        "Scheduler"
+    ],
+    "author": "Jacob Turner",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Xychic/MMM-DisplayScheduler/issues"
+    },
+    "homepage": "https://github.com/Xychic/MMM-DisplayScheduler#readme",
+    "dependencies": {
+        "cron": "^1.1.0",
+        "onoff": "^6.0.0"
+    }
+}
